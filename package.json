@@ -1,0 +1,13 @@
+{
+  "name": "world-class-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "世界级 AI 基础引擎：零依赖、数值严谨、数学不变量自检。作者：晨星",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test-all.js"
+  },
+  "keywords": ["ai", "machine-learning", "deep-learning", "linear-algebra", "numerical", "transformer", "attention"],
+  "license": "MIT",
+  "author": "晨星"
+}
