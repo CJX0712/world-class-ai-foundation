@@ -1,5 +1,12 @@
 # ✦ 世界级 AI 引擎 · World-Class AI Engine
 
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/CJX0712/world-class-ai-foundation/blob/main/LICENSE) [![Language](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)](https://github.com/CJX0712/world-class-ai-foundation) [![Deps](https://img.shields.io/badge/dependencies-0-brightgreen)](https://github.com/CJX0712) [![Verified](https://img.shields.io/badge/invariants-verified-brightgreen)](https://github.com/CJX0712) [![Author](https://img.shields.io/badge/author-晨星-blueviolet)](https://github.com/CJX0712)
+
+</div>
+
+
 > **零重写 · 集大成 · 闭环交付** —— 每一行代码都站在世界顶级成果之上。
 > 作者：**晨星** ｜ 许可：MIT ｜ 运行环境：零依赖，浏览器 / Node 通用（ESM）
 
